@@ -1,0 +1,20 @@
+{
+    "Author": "Floris van der Ploeg",
+    "ContentSize": 13349,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/back-up-files-to-azure-blob-storage/master/Start-AzureBackup.ps1",
+    "DownloadCount": 2483,
+    "Id": "Back-up-files-to-Azure-b9e863d0",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 107,
+    "RaterCount": 1,
+    "Rating": 3.0,
+    "ReleaseDate": "2017-11-19T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Creates a backup of the specified files and folders to Microsoft Azure Blob Storage.",
+    "Title": "Back up files to Azure Blob Storage",
+    "UpdatedDate": "2018-3-27T00:00:00",
+    "Url": "https://github.com/azureautomation/back-up-files-to-azure-blob-storage",
+    "UserTags": "Microsoft Azure, Powershell, backup"
+}
